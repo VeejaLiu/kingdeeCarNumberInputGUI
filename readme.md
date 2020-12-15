@@ -3,7 +3,5 @@
 ## v1.0.0
 
 实现效果：
-
-![image-20201215093631381](C:\Users\veeja\AppData\Roaming\Typora\typora-user-images\image-20201215093631381.png)
-
-![image-20201215093656278](C:\Users\veeja\AppData\Roaming\Typora\typora-user-images\image-20201215093656278.png)
+![image](https://github.com/VeejaLiu/kingdeeCarNumberInputGUI/blob/master/readmePicture/image-20201215093631381.png)
+![image](https://github.com/VeejaLiu/kingdeeCarNumberInputGUI/blob/master/readmePicture/image-20201215093656278.png)
